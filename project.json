@@ -11,7 +11,6 @@
     "Microsoft.AspNet.IISPlatformHandler": "1.0.0-*",
     "Microsoft.AspNet.Diagnostics": "1.0.0-*",
     "Microsoft.AspNet.Mvc": "6.0.0-*",
-    "Microsoft.Extensions.Logging.Console": "1.0.0-rc1-final",
     "System.Linq.Parallel": "4.0.1-rc2-24027",
     "Microsoft.AspNet.StaticFiles": "1.0.0-rc1-final"
   },
